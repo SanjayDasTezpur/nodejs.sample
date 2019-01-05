@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sendmessage.js",
+  "scripts": {
+    "test": "clear"
+  },
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "twilio": "^3.26.0"
+  }
+}
